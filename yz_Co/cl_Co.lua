@@ -2,13 +2,6 @@
 local Chargement = nil
 local Percentage = 0.0
 
-print("^0======================================================================^7")
-print("^3By Yazz'#7393")
-print("^0[^2Téléchargement^0] ^7:^0 ^5https://discord.gg/kjHbNDE469^7")
-print("^0[^2Preview^0] ^7:^0 ^5https://www.youtube.com/watch?v=HS5GfImL0Do^7")
-print("^0======================================================================^7")
-
-
 function Validation()
     local CoMenu = RageUI.CreateMenu("Votre Serveur", "ALARME")
     --CoMenu:SetRectangleBanner(51, 153,237, 0.68) --[enlevez les deux tiré devant la ligne et vous allez sur ce site pour avoir les couleur : https://rgbacolorpicker.com/]
